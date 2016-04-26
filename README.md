@@ -2,7 +2,8 @@
 
 ## Contents
 
-todo: contents description
+This is my theme for Ubunut/Unity. It utilizes the Numix-gtk theme and a custom set of 
+Flattr icons.
 
 ## Installation
 
@@ -38,16 +39,33 @@ After copying or linking the icon use `unity-tweak-tool` to select the icons.
 To remove the bubble around the launcher icons:
 
 ```bash
-sudo cp -r /usr/share/unity/icons/* /path/to/theme-mine/launcher/Backup_Icons/
+sudo cp /usr/share/unity/icons/* path/to/theme-mine/launcher/Backup_Icons/
 sudo cp /path/to/theme-mine/launcher/New_Icons/* /usr/share/unity/icons/
 ```
 
-The first command is to make a backup of the originals in case these screw up 
-or you want the originals back.
+The first command is to make a backup of the originals in case something goes 
+wrong or you want the originals back. The second command then replaces the 
+default launcher icons with the new ones.
 
+
+#### To Restore Original Launcher Icons
+
+```bash
+sudo cp path/to/theme-mine/launcher/Backup_Icons/* /usr/share/unity/icons/
+```
+
+This command requires that you executed command one above to backup the original 
+launcher icons.
 
 ### Wallpaper
-Select an image in `./wallpapers` or a desired image. Right click and select 
-`Set as Wallpaper`.
+Select an image in `path/to/theme-mine/wallpapers` or a desired image. 
+Right click and select `Set as Wallpaper`.
 
+## License
+
+TODO: Describe the licence
+
+## Credits
+
+TODO: Give credit to original creators
 
