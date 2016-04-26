@@ -1,9 +1,11 @@
 # Theme-Mine
 
-## Contents
-
 This is my theme for Ubunut/Unity. It utilizes the Numix-gtk theme and a custom set of 
 Flattr icons.
+
+## Contents
+
+TODO: Breifly describe the four folder structure
 
 ## Installation
 
