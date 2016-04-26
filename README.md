@@ -15,7 +15,7 @@ To install Numix open a terminal and type the following:
 ```bash
 sudo add-apt-repository ppa:numix/ppa
 sudo apt-get update
-sudo apt-get numix-gtk-theme
+sudo apt-get install numix-gtk-theme
 ```
 
 This will install the Numix theme. To select the theme for use, open 
