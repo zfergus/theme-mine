@@ -1,7 +1,7 @@
 # Theme-Mine
 
-This is my theme for Ubunut/Unity. It utilizes the Numix-gtk theme and a custom set of 
-Flattr icons.
+This is my theme for Ubunut/Unity. It utilizes the Numix-gtk theme and a 
+custom set of Flattr icons.
 
 ## Contents
 
@@ -10,16 +10,21 @@ TODO: Breifly describe the four folder structure
 ## Installation
 
 ### Theme
-To install Numix open a terminal and type the following:
+To install the theme you can either copy it, requiring a copy for every 
+update, or create a symbolic link, requiring no future copying.
 
+**To copy the theme:**
 ```bash
-sudo add-apt-repository ppa:numix/ppa
-sudo apt-get update
-sudo apt-get numix-gtk-theme
+sudo cp -r /path/to/theme-mine/numix-mine/ /usr/share/themes/
 ```
 
-This will install the Numix theme. To select the theme for use, open 
-Unity-Tweak-Tool and select the numix theme from the themes menu.
+**To create a live update via a symbolic link:**
+```bash
+sudo ln -s /path/to/theme-mine/numix-mine/ /usr/share/themes/Numix-Mine
+```
+
+After copying or linking the theme use `unity-tweak-tool` to select the 
+`Numix-Mine` from the `Themes` menu.
 
 ### Icons
 To install the icons you can either copy them requiring a copy for every 
@@ -35,7 +40,8 @@ sudo cp -r /path/to/theme-mine/flattr-mine/ /usr/share/icons/
 sudo ln -s /path/to/theme-mine/flattr-mine/ /usr/share/icons/flattr-mine
 ```
 
-After copying or linking the icon use `unity-tweak-tool` to select the icons.
+After copying or linking the icons use `unity-tweak-tool` to select 
+`flattr-mine` from the icons menu.
 
 ### Launcher
 To remove the bubble around the launcher icons:
@@ -56,8 +62,8 @@ default launcher icons with the new ones.
 sudo cp path/to/theme-mine/launcher/Backup_Icons/* /usr/share/unity/icons/
 ```
 
-This command requires that you executed command one above to backup the original 
-launcher icons.
+This command requires that you executed command one above to backup the 
+original launcher icons.
 
 ### Wallpaper
 Select an image in `path/to/theme-mine/wallpapers` or a desired image. 
