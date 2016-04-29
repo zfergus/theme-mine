@@ -10,6 +10,5 @@
 * Sudoku {gnome-sudoku.svg}
 * ImageMagick {imagemagick.svg}
 * Simple Scan {scanner.svg, simple-scan.svg, package_graphics_scanning.svg}
-
-* Additional Drivers {cs-drivers.svg}
+* Online Accounts {}
 
