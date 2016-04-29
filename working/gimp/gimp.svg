@@ -14,7 +14,7 @@
    height="48"
    id="svg11300"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="gimp-no-stroke.svg">
+   sodipodi:docname="gimp.svg">
   <defs
      id="defs24" />
   <metadata
@@ -42,9 +42,9 @@
      id="namedview80"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="27.141537"
+     inkscape:cx="24.415008"
      inkscape:cy="18.436026"
-     inkscape:window-x="992"
+     inkscape:window-x="75"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -52,7 +52,7 @@
      id="layer1">
     <path
        d="m 10.536364,12.615822 c 0,0 2.96437,6.11294 9.899328,5.940486 C 34.968758,18.191702 37.517205,10.61049 37.881811,9.5166719 38.246417,8.422854 38.804309,8.5885389 38.933292,9.5994482 43.67317,52.622951 6.0392185,34.163244 4.7026683,26.835455 12.177091,24.64782 10.354061,20.454851 10.354061,20.454851 l 0.182303,-7.839029 z"
-       style="color:#2c3e50;display:inline;overflow:visible;visibility:visible;fill:#756d57;fill-opacity:1;fill-rule:evenodd;stroke:#756d57;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="color:#2c3e50;display:inline;overflow:visible;visibility:visible;fill:#756d57;fill-opacity:1;fill-rule:evenodd;stroke:#2c3e50;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="path4323"
        inkscape:connector-curvature="0" />
     <path
