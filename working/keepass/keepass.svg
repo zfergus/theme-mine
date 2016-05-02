@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 13.546666 13.546668"
    sodipodi:docname="keepass.svg">
   <defs
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.58683"
-     inkscape:cx="18.072649"
-     inkscape:cy="22.754067"
+     inkscape:zoom="8.9002328"
+     inkscape:cx="22.475208"
+     inkscape:cy="19.429557"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,11 +39,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="true"
-     inkscape:window-width="1305"
-     inkscape:window-height="744"
-     inkscape:window-x="61"
+     inkscape:window-width="926"
+     inkscape:window-height="1027"
+     inkscape:window-x="992"
      inkscape:window-y="24"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0">
     <sodipodi:guide
        position="-6.6748425e-06,47.999999"
        orientation="47.999977,0"
@@ -133,59 +133,48 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="BlackStroke"
-     style="opacity:1" />
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(38.119153,-397.84494)">
     <g
-       transform="matrix(0.02000693,0,0,0.02000693,-36.524064,399.52856)"
+       transform="matrix(0.02238679,0,0,0.02238679,-37.132509,398.8872)"
        style="display:inline"
        id="g4742">
       <g
          transform="translate(-25.15254,106.33898)"
          id="g4702">
-        <path
-           sodipodi:type="arc"
-           style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+        <ellipse
+           ry="66.169495"
+           rx="88.94915"
+           cy="359.05084"
+           cx="391.59323"
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
            id="path4021"
-           sodipodi:cx="391.59323"
-           sodipodi:cy="359.05084"
-           sodipodi:rx="88.94915"
-           sodipodi:ry="66.169495"
-           d="m 480.54238,359.05084 c 0,36.54441 -39.82389,66.1695 -88.94915,66.1695 -49.12526,0 -88.94915,-29.62509 -88.94915,-66.1695 0,-36.5444 39.82389,-66.16949 88.94915,-66.16949 49.12526,0 88.94915,29.62509 88.94915,66.16949 z"
            transform="matrix(2.8460956,0,0,3.8258989,-830.8725,-1224.0288)" />
-        <path
-           sodipodi:type="arc"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+        <ellipse
+           ry="124.20339"
+           rx="122.57627"
+           cy="327.05084"
+           cx="337.35593"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
            id="path4551"
-           sodipodi:cx="337.35593"
-           sodipodi:cy="327.05084"
-           sodipodi:rx="122.57627"
-           sodipodi:ry="124.20339"
-           d="m 459.9322,327.05084 c 0,68.59564 -54.87927,124.20339 -122.57627,124.20339 -67.69701,0 -122.57627,-55.60775 -122.57627,-124.20339 0,-68.59564 54.87926,-124.20339 122.57627,-124.20339 67.697,0 122.57627,55.60775 122.57627,124.20339 z"
            transform="matrix(1.8663356,0,0,1.8496054,-347.30405,-454.76371)" />
       </g>
       <g
          id="g4729">
-        <path
-           sodipodi:type="arc"
+        <ellipse
+           ry="154.03391"
+           rx="140.47458"
+           cy="253.83051"
+           cx="284.74576"
            style="fill:#6486e8;fill-opacity:1;stroke:none"
            id="path4554"
-           sodipodi:cx="284.74576"
-           sodipodi:cy="253.83051"
-           sodipodi:rx="140.47458"
-           sodipodi:ry="154.03391"
-           d="m 425.22034,253.83051 c 0,85.07057 -62.89261,154.0339 -140.47458,154.0339 -77.58197,0 -140.47458,-68.96333 -140.47458,-154.0339 0,-85.07058 62.89261,-154.03391 140.47458,-154.03391 77.58197,0 140.47458,68.96333 140.47458,154.03391 z"
            transform="matrix(1.4569098,0,0,1.3357028,-158.88176,-83.009227)" />
         <g
            id="g4718">
@@ -249,13 +238,5 @@
         </g>
       </g>
     </g>
-    <g
-       id="g3948"
-       transform="matrix(0.20447891,0,0,0.20710395,-2.0550657,335.75319)"
-       style="fill:#ecf0f1;fill-opacity:1" />
-    <g
-       id="g3948-9"
-       transform="matrix(0.20447891,0,0,0.20710395,-2.9939853,335.86756)"
-       style="fill:#ecf0f1;fill-opacity:1" />
   </g>
 </svg>

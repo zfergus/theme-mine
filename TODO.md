@@ -4,7 +4,6 @@
 
 ### Create:
 
-* Deja Dup Backup Tool {deja-dup.svg}
 * Mines {gnome-mines.svg}
 * Sudoku {gnome-sudoku.svg}
 * ImageMagick {imagemagick.svg}
