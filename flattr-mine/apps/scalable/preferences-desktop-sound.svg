@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    viewBox="0 0 13.546666 13.546668"
    sodipodi:docname="preferences-desktop-sound.svg">
   <defs
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.9002327"
-     inkscape:cx="21.837926"
-     inkscape:cy="16.131983"
+     inkscape:cx="11.388761"
+     inkscape:cy="25.120512"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,11 +39,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="true"
-     inkscape:window-width="926"
-     inkscape:window-height="1027"
-     inkscape:window-x="75"
+     inkscape:window-width="1305"
+     inkscape:window-height="744"
+     inkscape:window-x="61"
      inkscape:window-y="24"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <sodipodi:guide
        position="-6.6748425e-06,47.999999"
        orientation="47.999977,0"
@@ -198,7 +198,7 @@
        y="399.8205"
        ry="1.27" />
     <rect
-       style="fill:#354b61;fill-opacity:1;stroke:none"
+       style="fill:#2e4154;fill-opacity:1;stroke:none"
        id="rect4139"
        width="2.54"
        height="2.54"
@@ -212,6 +212,6 @@
        height="1.128889"
        width="1.128889"
        id="rect4141"
-       style="fill:#354b61;fill-opacity:1;stroke:none" />
+       style="fill:#2e4154;fill-opacity:1;stroke:none" />
   </g>
 </svg>
