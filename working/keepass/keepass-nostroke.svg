@@ -26,10 +26,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.9002328"
-     inkscape:cx="25.621193"
-     inkscape:cy="14.822936"
+     inkscape:cx="29.722209"
+     inkscape:cy="16.957712"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4729"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -41,7 +41,7 @@
      showguides="true"
      inkscape:window-width="926"
      inkscape:window-height="1027"
-     inkscape:window-x="65"
+     inkscape:window-x="992"
      inkscape:window-y="24"
      inkscape:window-maximized="0">
     <sodipodi:guide
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -164,7 +164,7 @@
         <ellipse
            transform="matrix(1.4569098,0,0,1.3357028,-158.88176,-83.009227)"
            id="path4554"
-           style="fill:#6486e8;fill-opacity:1;stroke:none"
+           style="fill:#8fa8ee;fill-opacity:1;stroke:none"
            cx="284.74576"
            cy="253.83051"
            rx="140.47458"
