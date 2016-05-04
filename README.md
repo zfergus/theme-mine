@@ -1,5 +1,7 @@
 # Theme-Mine
 
+<img src="./flattr-mine/flattr-mine.png" width="900px">
+
 This is my theme for Ubunut/Unity. It utilizes the Numix-gtk theme and a 
 custom set of Flattr icons.
 
