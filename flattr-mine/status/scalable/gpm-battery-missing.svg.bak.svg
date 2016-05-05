@@ -30,9 +30,9 @@
      inkscape:window-height="1056"
      id="namedview26"
      showgrid="true"
-     inkscape:zoom="20.050781"
-     inkscape:cx="23.255663"
-     inkscape:cy="21.983926"
+     inkscape:zoom="14.178043"
+     inkscape:cx="25.426542"
+     inkscape:cy="23.395142"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -96,22 +96,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     inkscape:connector-curvature="0"
-     style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-     d="m 24,14.171706 -4.62508,11.562699 4.62508,0 0,8.093889 4.62508,-11.562699 -4.62508,0 z"
-     id="rect4116-4"
-     sodipodi:nodetypes="ccccccc" />
-  <path
      style="opacity:1;fill:#e74c3c;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-     d="M 24,9 C 15.69,9 9,15.69 9,24 9,32.31 15.69,39 24,39 32.31,39 39,32.31 39,24 39,15.69 32.31,9 24,9 Z m 0,4 c 6.094,0 11,4.906 11,11 0,6.094 -4.906,11 -11,11 -6.094,0 -11,-4.906 -11,-11 0,-6.094 4.906,-11 11,-11 z"
-     id="rect4116"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssssssss" />
+     d="M 24 9 C 15.69 9 9 15.69 9 24 C 9 32.31 15.69 39 24 39 C 32.31 39 39 32.31 39 24 C 39 15.69 32.31 9 24 9 z M 24 13 C 30.094 13 35 17.906 35 24 C 35 30.094 30.094 35 24 35 C 17.906 35 13 30.094 13 24 C 13 17.906 17.906 13 24 13 z M 24 16 L 20 26 L 24 26 L 24 33 L 28 23 L 24 23 L 24 16 z "
+     id="rect4116" />
   <text
      xml:space="preserve"
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -123,12 +115,16 @@
        id="tspan2994"
        x="42.036831"
        y="29.802849" /></text>
-  <rect
-     style="fill:#e74c3c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4166"
-     width="28"
-     height="4"
-     x="-14"
-     y="31.941126"
-     transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="20.941406"
+     y="37"
+     id="text3768"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3770"
+       x="20.941406"
+       y="37"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">!</tspan></text>
 </svg>

@@ -13,8 +13,8 @@
    height="38.4pt"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="preferences-system-bluetooth-inactive.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bluetooth-disabled.svg">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
+     inkscape:window-width="926"
+     inkscape:window-height="1027"
      id="namedview9"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="31.062882"
-     inkscape:cy="25.731232"
-     inkscape:window-x="-2"
-     inkscape:window-y="59"
-     inkscape:window-maximized="1"
+     inkscape:zoom="9.8333331"
+     inkscape:cx="23.547327"
+     inkscape:cy="23.15167"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <sodipodi:guide
        position="9.5367432e-07,48.000001"
@@ -84,18 +84,9 @@
   </sodipodi:namedview>
   <defs
      id="defs4" />
-  <rect
-     style="fill:#7f8c8d;fill-rule:evenodd;stroke:none;fill-opacity:1"
-     y="4.000001"
-     x="4.000001"
-     ry="20"
-     height="40"
-     width="40"
-     stroke-miterlimit="2.01260185242"
-     id="shape01" />
   <path
-     style="fill:#ecf0f1;fill-opacity:1"
+     style="fill:#636363;fill-opacity:1"
      inkscape:connector-curvature="0"
-     d="m 18.500001,19.767608 4.124081,4.170407 0,0 -4.124081,4.170432 1.311607,1.322109 3.428666,-3.391098 0,7.960543 6.259727,-5.902271 -3.794981,-4.159715 3.784961,-4.153936 -6.215721,-5.784078 -0.02957,7.923035 -3.428672,-3.473105 z m 6.62848,-1.86782 1.901354,1.810138 -1.901354,2.344633 z m 0,8.321183 1.905761,1.945139 -1.901354,1.810144 z"
+     d="m 12.962713,15.506521 8.276122,8.369088 0,0 -8.276122,8.369138 2.632106,2.653181 6.880577,-6.805186 0,15.975056 L 35.037289,32.22324 27.421598,23.875609 35.017181,15.539574 22.543599,3.9322041 22.484258,19.83199 15.603669,12.862233 Z m 13.301899,-3.748304 3.815598,3.632549 -3.815598,4.705162 z m 0,16.698781 3.824442,3.903466 -3.815598,3.63256 z"
      id="shape0" />
 </svg>

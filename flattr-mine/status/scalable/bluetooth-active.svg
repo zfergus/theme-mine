@@ -13,7 +13,7 @@
    height="38.4pt"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="bluetooth-active.svg">
   <metadata
      id="metadata11">
@@ -36,18 +36,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="926"
+     inkscape:window-height="1027"
      id="namedview9"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:zoom="6.9532164"
-     inkscape:cx="31.748192"
-     inkscape:cy="25.530348"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
+     inkscape:cx="25.923549"
+     inkscape:cy="25.817985"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <sodipodi:guide
        position="9.5367432e-07,48.000001"
@@ -84,18 +84,9 @@
   </sodipodi:namedview>
   <defs
      id="defs4" />
-  <rect
-     style="fill:#2980b9;fill-rule:evenodd;stroke:none;fill-opacity:1"
-     y="4.000001"
-     x="4.000001"
-     ry="20"
-     height="40"
-     width="40"
-     stroke-miterlimit="2.01260185242"
-     id="shape01" />
   <path
-     style="fill:#30cd73;fill-opacity:1"
+     style="fill:#3498db;fill-opacity:1"
      inkscape:connector-curvature="0"
-     d="m 18.500001,19.767608 4.124081,4.170407 0,0 -4.124081,4.170432 1.311607,1.322109 3.428666,-3.391098 0,7.960543 6.259727,-5.902271 -3.794981,-4.159715 3.784961,-4.153936 -6.215721,-5.784078 -0.02957,7.923035 -3.428672,-3.473105 z m 6.62848,-1.86782 1.901354,1.810138 -1.901354,2.344633 z m 0,8.321183 1.905761,1.945139 -1.901354,1.810144 z"
+     d="m 12.962995,15.506738 8.27591,8.368874 0,0 -8.27591,8.368924 2.632039,2.653114 6.880401,-6.805013 0,15.974647 L 35.037007,32.22303 27.421511,23.875612 35.016899,15.539791 22.543636,3.9327176 22.484297,19.832096 15.603884,12.862518 Z m 13.301559,-3.748207 3.815501,3.632455 -3.815501,4.705041 z m 0,16.698353 3.824344,3.903366 -3.815501,3.632467 z"
      id="shape0" />
 </svg>
