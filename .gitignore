@@ -1,1 +1,7 @@
-*~
+# Backup/Working files
+
+*/*~
+*/*.bak
+
+working/
+
