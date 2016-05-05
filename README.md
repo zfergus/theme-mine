@@ -2,17 +2,34 @@
 
 <img src="./flattr-mine/flattr-mine.png" width="900px">
 
-This is my theme for Ubunut/Unity. It utilizes the Numix-gtk theme and a 
-custom set of Flattr icons.
+This is my theme for Ubunutu/Unity. It utilizes the
+[Numix-GTK](https://github.com/numixproject/numix-gtk-theme) theme and a
+custom version of the
+[Flattr](https://github.com/KaOSx/flattr-icons-kde)/
+[Lüv](https://github.com/NitruxSA/luv-icon-theme) icon theme.
 
 ## Contents
 
-TODO: Breifly describe the four folder structure
+Theme-Mine consists of multiple components, an icon theme, GTK theme, and a set
+of wallpapers.
+
+### Flattr-Mine
+Flattr-Mine is a customized version of the Flattr/Lüv icon theme. It includes
+icons from different versions of the original theme as well as some additional
+self-created icons.
+
+### Numix-Mine
+Numix-Mine is a stable backup of the Numix-GTK theme. This theme has been
+unedited and is included as a stable version. Feel free to use a
+newer version. See [here](https://github.com/numixproject/numix-gtk-theme)
+for more information.
 
 ## Installation
 
-### Theme
-To install the theme you can either copy it, requiring a copy for every 
+Use the bash script `install.sh` to install Theme-Mine, or install manually:
+
+### GTK Theme
+To install the theme you can either copy it, requiring a copy for every
 update, or create a symbolic link, requiring no future copying.
 
 **To copy the theme:**
@@ -25,11 +42,11 @@ sudo cp -r /path/to/theme-mine/numix-mine/ /usr/share/themes/
 sudo ln -s /path/to/theme-mine/numix-mine/ /usr/share/themes/Numix-Mine
 ```
 
-After copying or linking the theme use `unity-tweak-tool` to select the 
+After copying or linking the theme use `unity-tweak-tool` to select the
 `Numix-Mine` from the `Themes` menu.
 
 ### Icons
-To install the icons you can either copy them requiring a copy for every 
+To install the icons you can either copy them requiring a copy for every
 update or create a symbolic link requiring no future copying.
 
 **To copy icons:**
@@ -42,10 +59,10 @@ sudo cp -r /path/to/theme-mine/flattr-mine/ /usr/share/icons/
 sudo ln -s /path/to/theme-mine/flattr-mine/ /usr/share/icons/flattr-mine
 ```
 
-After copying or linking the icons use `unity-tweak-tool` to select 
+After copying or linking the icons use `unity-tweak-tool` to select
 `flattr-mine` from the icons menu.
 
-### Launcher
+<!-- ### Launcher
 To remove the bubble around the launcher icons:
 
 ```bash
@@ -53,10 +70,9 @@ sudo cp /usr/share/unity/icons/* path/to/theme-mine/launcher/Backup_Icons/
 sudo cp /path/to/theme-mine/launcher/New_Icons/* /usr/share/unity/icons/
 ```
 
-The first command is to make a backup of the originals in case something goes 
-wrong or you want the originals back. The second command then replaces the 
+The first command is to make a backup of the originals in case something goes
+wrong or you want the originals back. The second command then replaces the
 default launcher icons with the new ones.
-
 
 #### To Restore Original Launcher Icons
 
@@ -64,18 +80,21 @@ default launcher icons with the new ones.
 sudo cp path/to/theme-mine/launcher/Backup_Icons/* /usr/share/unity/icons/
 ```
 
-This command requires that you executed command one above to backup the 
-original launcher icons.
+This command requires that you executed command one above to backup the
+original launcher icons. -->
 
 ### Wallpaper
-Select an image in `path/to/theme-mine/wallpapers` or a desired image. 
+Select an image in `path/to/theme-mine/wallpapers` or a desired image.
 Right click and select `Set as Wallpaper`.
 
 ## License
 
-TODO: Describe the licence
+Flattr-Mine is licensed under the Creative Commons License (CC BY-NC-SA 4.0).
+See `flattr-mine/LICENSE.txt` for more information.
+
+Numix-Mine is licensed under GNU General Public License (GPL-3.0+).
+See `numix-mine/LICENSE` for more information.
 
 ## Credits
 
-TODO: Give credit to original creators
-
+TODO: Give credit to original creators two policies.
