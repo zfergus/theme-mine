@@ -3,8 +3,9 @@
 **/*~
 **/*.bak
 
-working/*
-!working/image-mimetypes/
+working/
+#working/*
+#!working/image-mimetypes/
 
 # No longer needed files
 
