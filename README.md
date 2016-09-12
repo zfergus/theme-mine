@@ -106,6 +106,6 @@ Numix-Mine based on a stable version of:
 * [github.com/numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme)
 
 Wallpaper:
-* [Ciri vs. Imlerith by Mo Xuan Zhang](./wallpapers/ciri.png)
-* [The Saddest Khajiit by DarrenGeers](./wallpapers/khajiit.png)
-* [Totem by Justin Maller](./wallpaper/wall.png)
+* Ciri vs. Imlerith by Mo Xuan Zhang
+* The Saddest Khajiit by DarrenGeers
+* Totem by Justin Maller
