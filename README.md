@@ -1,6 +1,6 @@
 # Theme-Mine
 
-<img src="./flattr-mine/flattr-mine.png" width="900px">
+<img src="./flattr-mine/flattr-mine.png" width="600px">
 
 This is my theme for Ubunutu/Unity. It utilizes the
 [Numix-GTK](https://github.com/numixproject/numix-gtk-theme) theme and a
@@ -97,4 +97,10 @@ See `numix-mine/LICENSE` for more information.
 
 ## Credits
 
-TODO: Give credit to original creators two policies.
+Flattr-Mine is based of the following Flattr/Luv icons with some original additions:
+* [github.com/NitruxSA/luv-icon-theme](https://github.com/NitruxSA/luv-icon-theme)
+* [github.com/MishkaRogachev/flattr-icons-kde](https://github.com/MishkaRogachev/flattr-icons-kde)
+* [github.com/KaOSx/flattr-icons-kde](https://github.com/KaOSx/flattr-icons-kde)
+
+Numix-Mine based on a stable version of:
+* [github.com/numixproject/numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme)
