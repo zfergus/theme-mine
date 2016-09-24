@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+	<mime-type type="text/x-lisp">
+		<sub-class-of type="text/plain"/>
+		<comment>LISP source file</comment>
+		<glob pattern="*.lisp"/>
+		<glob pattern="*.lsp"/>
+	</mime-type>
+</mime-info>
