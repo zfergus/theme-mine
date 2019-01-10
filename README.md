@@ -1,8 +1,8 @@
 # Theme-Mine
 
-<img src="./flattr-mine/flattr-mine.png" width="600px">
+<p align="center"><img src="./flattr-mine/flattr-mine.png" width="50%"></p>
 
-This is my theme for Ubunutu/Unity. It utilizes the
+This is my theme for Ubuntu/Unity. It utilizes the
 [Numix-GTK](https://github.com/numixproject/numix-gtk-theme) theme and a
 custom version of the
 [Flattr](https://github.com/KaOSx/flattr-icons-kde)/
